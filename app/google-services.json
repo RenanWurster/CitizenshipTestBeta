@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717942042293",
+    "project_id": "citizenship-test-119c9",
+    "storage_bucket": "citizenship-test-119c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717942042293:android:14cc0413bd1007240658fc",
+        "android_client_info": {
+          "package_name": "com.example.citizenshiptest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF8dBc5TGCmXx05AyhQwzET25XT69u5wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
