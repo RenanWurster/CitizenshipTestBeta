@@ -57,8 +57,8 @@ dependencies {
     implementation("androidx.navigation:navigation-ui-ktx:2.7.7")
 
     // Firebase
-    // BOM (Bill of materials) welche uns erlaubt, alle Versionen der dependencies über diese bom zu managen.
+    // BOM (Bill of Materials) which allows us to manage all versions of the dependencies through this BOM
     implementation(platform("com.google.firebase:firebase-bom:32.8.0"))
-    // Authentication dependencie ohne Version, dank der BOM
+    // A dependency on Authentication without a version, thanks to the BOM
     implementation("com.google.firebase:firebase-auth")
 }
